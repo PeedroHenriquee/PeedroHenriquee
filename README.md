@@ -8,4 +8,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroHenriquee&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ![Snake animation](https://github.com/PeedroHenriqu/PeedroHenriqu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PeedroHenriqu/PeedroHenriquee/blob/output/github-contribution-grid-snake.svg)
