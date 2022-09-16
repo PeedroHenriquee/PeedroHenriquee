@@ -30,6 +30,5 @@
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=PeedroHenriquee&repo=PeedroHenriquee&theme=react)](https://github.com/PeedroHenriquee/PeedroHenriquee)
 
-![snake gif](https://github.com/PeedroHenriquee/PeedroHenriquee/blob/output/github-contribution-grid-snake.gif)
 
 
