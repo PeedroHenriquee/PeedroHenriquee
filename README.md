@@ -1,4 +1,6 @@
 <h1> Hi! My name is Pedro Henrique. </h1>
+<h1> Atualmente estudante IFPI desenvolvimento de Sistemas <h1>
+<h3> Faço parte Do laboratorio de Inovação Gruna Labs Ifpi <h3>
 
 <div>
   <a href="https://github.com/PeedroHenriquee1">
