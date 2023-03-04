@@ -3,6 +3,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
+![d6fb26ee-979f-48b0-b4b3-6bdf96acec64](https://user-images.githubusercontent.com/83087869/222931165-a43a5ab8-1d6b-4b4c-ba90-5f0bab156fb2.jpg)
+
 
 Here are some ideas to get you started:
 
