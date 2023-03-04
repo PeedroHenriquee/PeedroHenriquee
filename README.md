@@ -2,7 +2,7 @@
 # Olá, me chamo Peedro Henrique ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<!--
+
 
 Here are some ideas to get you started:
 
@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on several projects...
 - 📫 How to reach me: (86)998397150...
 - ⚡ Fun fact: ...
--->
+
 
 ## Ferramentas e Tecnologias
 
 ##I am learning.
-<span>
+</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="40" height="40" />
 
