@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Ferramentas e Tecnologias
 
 ## I am learning:
-</br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="40" height="40" />
 
